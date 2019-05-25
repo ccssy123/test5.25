@@ -1,0 +1,31 @@
+@media(max-width: 1024px){
+   .nav-link{
+            width: 75px;
+     }   
+}
+     .mr-auto{
+        margin-left: 300px;
+     }
+     @media(max-width: 768px){
+     .mr-auto{
+        margin-left: 20px;
+     } 
+}
+@media(max-width: 1024px){
+   .nav-link{
+        margin-left: 0px;
+     }   
+}
+@media(max-width: 768px){
+   .nav-item a:after{
+        margin-top: 7px!important;
+     }   
+}
+@media(max-width: 1127px) {
+    .copyright p{
+        line-height: 22px!important;
+        margin-bottom: 0px!important;
+        padding-left: 5px;
+        padding-right: 5px;
+    }
+}
